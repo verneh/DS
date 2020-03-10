@@ -5,4 +5,4 @@
 
 NLP is currently a work in progress.
 
-[Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of the Spotify Recommender.
+[Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender.
