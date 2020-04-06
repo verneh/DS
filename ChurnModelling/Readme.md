@@ -11,4 +11,4 @@ joblib
 plotly
 streamlit
 
-Will continuously update this kernel.
+Will continuously update this kernel. For rfc_model.pickle, it's 256 MB. you can redo it on your laptop, computer, google colab or whatnot.
