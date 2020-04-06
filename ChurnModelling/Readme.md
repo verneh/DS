@@ -12,9 +12,9 @@ streamlit
 scipy
 xgboost
 
-Will continuously update this kernel. For rfc_model.pickle, it's 256 MB. you can redo it on your laptop, computer, google colab or whatnot.
+Will continuously update this kernel. Currently deciding where to host it. For rfc_model.pickle, it's 256 MB. you're going to have to run this separately on your laptop, computer, google colab or whatnot.
 
-Did some of my computations through Google Colab with the file - colab_churn.ipynb 
+Did some of the modelling through Google Colab with the file - colab_churn.ipynb 
 
 Once you figure this all out, just run:
 
