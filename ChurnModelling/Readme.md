@@ -3,12 +3,13 @@ the dataset wants us to classify whether the customer left the bank or continues
 
 Used streamlit to build the multipage web app. Inspired by [[Nancy Chelaru's notebook]](https://github.com/nchelaru/random-forest-streamlit/blob/master/app.py)
 
-Requirements
+**Requirements**
 
-aside from the usual, pandas, numpy, matplotlib, scikit-learn, we also have:
+aside from the usual, pandas, numpy, matplotlib, scikit-learn, seaborn, we also have:
 
-joblib
 plotly
 streamlit
+scipy
+xgboost
 
 Will continuously update this kernel. For rfc_model.pickle, it's 256 MB. you can redo it on your laptop, computer, google colab or whatnot.
