@@ -15,3 +15,7 @@ xgboost
 Will continuously update this kernel. For rfc_model.pickle, it's 256 MB. you can redo it on your laptop, computer, google colab or whatnot.
 
 Did some of my computations through Google Colab with the file - colab_churn.ipynb 
+
+Once you figure this all out, just run:
+
+streamlit run app.py through terminal.
