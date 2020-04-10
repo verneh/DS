@@ -1,6 +1,7 @@
 Wasn't expecting to build the app but here we are.
 
 **Requirements**  
+
 streamlit>=0.57.3  
 matplotlib>=3.2.1  
 numpy>=1.18.2  
