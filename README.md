@@ -1,7 +1,7 @@
 # Verne's Github for Data Science
 ...it's where we dump our projects.
 
-[Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn Predictor App) Predicting whether a person is a customer in a bank or not.
+[Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn%20Predictor%20App) Predicting whether a person is a customer in a bank or not.
 
 [Churn Modelling](https://github.com/verneh/datasci/tree/master/ChurnModelling) is taken from Kaggle. My first multipage app built through streamlit.io.
 
