@@ -1,6 +1,6 @@
 Wasn't expecting to build the app but here we are.
 
-![Churn Predictor App](link-to-image)
+![Churn Predictor App](https://github.com/verneh/verneh.github.io/blob/master/Churn%20Predictor%20App/Screen%20Shot%202020-04-13%20at%207.02.29%20AM.png)
 
 **Requirements**  
 
