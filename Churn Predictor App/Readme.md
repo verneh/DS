@@ -1,5 +1,7 @@
 Wasn't expecting to build the app but here we are.
 
+![Churn Predictor App](link-to-image)
+
 **Requirements**  
 
 streamlit>=0.57.3  
@@ -11,3 +13,5 @@ scikit-learn>=0.22.2
 scipy>=1.4.1  
 pip>=20.0.2  
 seaborn>=0.10.0  
+
+
