@@ -1,6 +1,8 @@
 # Verne's Github for Data Science
 ...it's where we dump our projects.
 
+[Bottling Machine Repair Simulation](https://github.com/verneh/datasci/tree/master/Bottling%20Machine%20Repair%20Simulation) - Discrete event simulation to repair and check for spare machines for a fictituous bottling company.
+
 [Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn%20Predictor%20App) - Code for predicting whether a person is a customer in a bank or not.
 
 [Churn Modelling](https://github.com/verneh/datasci/tree/master/ChurnModelling) is taken from Kaggle. Determined models to be used for Churn Prediction. Only the code for my first multipage app built through streamlit.io. 
