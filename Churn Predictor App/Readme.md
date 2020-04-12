@@ -19,4 +19,9 @@ scipy>=1.4.1
 pip>=20.0.2  
 seaborn>=0.10.0  
 
+**Installation**
+
+Once you install requirements.txt, just do streamlit run main.py
+
+
 
