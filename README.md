@@ -13,4 +13,4 @@ NLP is currently a work in progress.
 
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender.
 
-[ULMFit](https://github.com/verneh/DataSci/tree/master/ULMFit) was meant as an application to fellowship.ai. Deep Learning with Sentiment Classification.
+[ULMFit](https://github.com/verneh/DataSci/tree/master/ULMFit) was meant as an application to fellowship.ai. Deep Learning with Sentiment Classification for an airlines company.
