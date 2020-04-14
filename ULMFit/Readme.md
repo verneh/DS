@@ -1,4 +1,4 @@
-ULMFit for Virgin Airlines tweets as part of a Fellowship.ai challenge.
+ULMFit for Virgin Airlines tweets as part of a Fellowship.ai challenge. Text classification with some Deep Learning.
 
 **Requirements**
 
