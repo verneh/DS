@@ -9,6 +9,8 @@
 
 [Family Income and Expenditure (FIAE)](https://github.com/verneh/DataSci/tree/master/FIAE) is an exploratory data analysis on the average Filipino income with some examination of the relationships between variables.
 
+[MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits.
+
 NLP is currently a work in progress.
 
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender.
