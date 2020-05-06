@@ -15,10 +15,10 @@
 
 [MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits using Keras / TensorFlow
 
-[NLP](https://github.com/verneh/datasci/tree/master/NLP) is currently a work in progress.
+[NLP](https://github.com/verneh/datasci/tree/master/NLP) is a work in progress.
 
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender.
 
-[Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Currently has a project on bike sharing utilization.
+[Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Currently have a project on bike sharing utilization.
 
 [ULMFit](https://github.com/verneh/DataSci/tree/master/ULMFit) was meant as an application to fellowship.ai. Deep Learning with Sentiment Classification for an airlines company.
