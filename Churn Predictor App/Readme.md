@@ -1,10 +1,10 @@
 Wasn't expecting to build the app but here we are.
 
-![Churn Predictor App](https://github.com/verneh/verneh.github.io/blob/master/Churn%20Predictor%20App/first.png)
+![Churn Predictor App](https://github.com/verneh/datasci/blob/master/Churn%20Predictor%20App/first.png)
 
 And this is how it predicts results.
 
-![Churn Predictor App](https://github.com/verneh/verneh.github.io/blob/master/Churn%20Predictor%20App/results.png)
+![Churn Predictor App](https://github.com/verneh/datasci/blob/master/Churn%20Predictor%20App/results.png)
 
 
 **Requirements**  
