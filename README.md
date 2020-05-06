@@ -3,7 +3,7 @@
 
 [Bottling Machine Repair Simulation](https://github.com/verneh/datasci/tree/master/Bottling%20Machine%20Repair%20Simulation) - Discrete event simulation to repair and check for spare machines for a fictituous bottling company.
 
-[Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn%20Predictor%20App) - Code for predicting whether a person is a customer in a bank or not.
+[Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn%20Predictor%20App) - Code for app that predicts whether a person is a customer in a bank or not.
 
 [Churn Modelling](https://github.com/verneh/datasci/tree/master/ChurnModelling) is taken from Kaggle. Determined models to be used for Churn Prediction. Only the code for my first multipage app built through streamlit.io. 
 
@@ -17,7 +17,7 @@
 
 [NLP](https://github.com/verneh/datasci/tree/master/NLP) is a work in progress.
 
-[Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender.
+[Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender to see if songs from another playlist can be added to a playlist.
 
 [Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Currently have a project on bike sharing utilization.
 
