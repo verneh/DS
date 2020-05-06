@@ -11,7 +11,7 @@
 
 [Family Income and Expenditure (FIAE)](https://github.com/verneh/DataSci/tree/master/FIAE) is an exploratory data analysis on the average Filipino income with some examination of the relationships between variables.
 
-[FastAI](https://github.com/verneh/DataSci/tree/master/FastAI) are projects built off of FastAI for Deep Learning.
+[FastAI](https://github.com/verneh/DataSci/tree/master/FastAI) are projects built off of FastAI for Deep Learning. Currently have an image classifier for an environment whether its polluted or not.
 
 [MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits using Keras / TensorFlow
 
