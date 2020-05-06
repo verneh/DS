@@ -19,4 +19,6 @@
 
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender.
 
+[Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Currently has a project on bike sharing utilization.
+
 [ULMFit](https://github.com/verneh/DataSci/tree/master/ULMFit) was meant as an application to fellowship.ai. Deep Learning with Sentiment Classification for an airlines company.
