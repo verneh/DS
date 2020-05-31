@@ -1,1 +1,1 @@
-Totoro in VGG-19!
+Totoro experiment in VGG-19!
