@@ -24,3 +24,6 @@
 [SQL](https://github.com/verneh/datasci/tree/master/SQL) - just SQL things.
 
 [ULMFit](https://github.com/verneh/DataSci/tree/master/ULMFit) was meant as an application to fellowship.ai. Deep Learning with Sentiment Classification for an airlines company.
+
+[VGG-19](https://github.com/verneh/datasci/tree/master/VGG-19) - StyleGAN but feels more like an image filter.
+
