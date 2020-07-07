@@ -12,6 +12,10 @@
 
 ![Mathematical Optimization for Business Problems](https://github.com/verneh/datasci/blob/master/Certificates/images/math.png)
 
+[SQL](https://courses.cognitiveclass.ai/certificates/9aa8ada5f7d24b509d23fa4aa32890cf)
+
+![SQL](https://github.com/verneh/datasci/blob/master/Certificates/images/sql.png)
+
 **Certificates from World Quant University**
 
 [Scientific Computing and Python for Data Science](https://wqu.thedataincubator.com/certificate/5374071810293760)
