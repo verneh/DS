@@ -4,6 +4,10 @@
 
 ![Data Science with Scala](https://github.com/verneh/datasci/blob/master/Certificates/images/scala.png)
 
+[Deep Learning with Tensorflow](https://courses.cognitiveclass.ai/certificates/d7429f1f86724630879da70e743b6c5b)
+
+![Deep Learning with Tensorflow](https://github.com/verneh/datasci/blob/master/Certificates/images/deep_tf.png)
+
 [Scientific Computing and Python for Data Science](https://wqu.thedataincubator.com/certificate/5374071810293760)
 
 ![Scientific Computing and Python for Data Science](https://github.com/verneh/datasci/blob/master/Certificates/images/quant.png)
