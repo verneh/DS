@@ -1,4 +1,4 @@
-**Certificates from Bootcamps**
+**Certificates from Cognitive AI**
 
 [Data Science with Scala](https://courses.cognitiveclass.ai/certificates/4ee41309eb3d4690a329330636183fe2)
 
@@ -7,6 +7,8 @@
 [Deep Learning with Tensorflow](https://courses.cognitiveclass.ai/certificates/d7429f1f86724630879da70e743b6c5b)
 
 ![Deep Learning with Tensorflow](https://github.com/verneh/datasci/blob/master/Certificates/images/deep_tf.png)
+
+**Certificates from World Quant University**
 
 [Scientific Computing and Python for Data Science](https://wqu.thedataincubator.com/certificate/5374071810293760)
 
