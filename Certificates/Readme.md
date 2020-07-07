@@ -8,6 +8,10 @@
 
 ![Deep Learning with Tensorflow](https://github.com/verneh/datasci/blob/master/Certificates/images/deep_tf.png)
 
+[Mathematical Optimization for Business Problems](https://courses.cognitiveclass.ai/certificates/1c895cd1aa734305a583894224be3f59)
+
+![Mathematical Optimization for Business Problems](https://github.com/verneh/datasci/blob/master/Certificates/images/math.png)
+
 **Certificates from World Quant University**
 
 [Scientific Computing and Python for Data Science](https://wqu.thedataincubator.com/certificate/5374071810293760)
