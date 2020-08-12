@@ -29,5 +29,5 @@
 
 [VGG-19](https://github.com/verneh/datasci/tree/master/VGG-19) dataset used with StyleGAN of an image that feels more like an image filter.
 
-[WorldQuant](https://github.com/verneh/datasci/tree/master/WorldQuant) miniproject for part II of WorldQuant University's Machine Learning Module.
+[WorldQuant](https://github.com/verneh/datasci/tree/master/WorldQuant) miniprojects for part II of WorldQuant University's Machine Learning Module.
 
