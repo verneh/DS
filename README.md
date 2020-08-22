@@ -19,6 +19,8 @@
 
 [NLP](https://github.com/verneh/datasci/tree/master/NLP) is a work in progress.
 
+[Object Detection](https://github.com/verneh/datasci/tree/master/Object%20Detection) is a weekend project using Tensorflow Hub to scan one image. Used FasterRCNN - Inception Resnet V2.
+
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender to see if songs from another playlist can be added to my own playlist.
 
 [Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Inside is a project on bike sharing utilization between two locations.
