@@ -22,6 +22,10 @@
 
 ![Natural Language Processing with Classification and Vector Spaces](https://github.com/verneh/datasci/blob/master/Certificates/images/dl1.png)
 
+[Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/S6Q58G3H2TNX)
+
+![Natural Language Processing with Probabilistic Models](https://github.com/verneh/datasci/blob/master/Certificates/images/dl2.png)
+
 **Certificates from Datacamp**
 
 [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/0b25b5e4c90ba9af86c2d4bc83ce14a47c1d0964)
