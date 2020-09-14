@@ -40,6 +40,6 @@
 
 **Certificates from World Quant University**
 
-[Scientific Computing and Python for Data Science](https://wqu.thedataincubator.com/certificate/5374071810293760)
+[Applied Data Science Module](https://wqu.thedataincubator.com/certificate/6227211858214912_full)
 
-![Scientific Computing and Python for Data Science](https://github.com/verneh/datasci/blob/master/Certificates/images/quant.png)
+![Applied Data Science Module](https://github.com/verneh/datasci/blob/master/Certificates/images/worldquant.png)
