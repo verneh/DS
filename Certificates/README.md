@@ -18,13 +18,10 @@
 
 **Certificates from Coursera**
 
-[Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/6HLCDLT23AX7)
+[Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XU5TRSQLLUD97)
 
-![Natural Language Processing with Classification and Vector Spaces](https://github.com/verneh/datasci/blob/master/Certificates/images/dl1.png)
+![Natural Language Processing Specialization](https://github.com/verneh/datasci/blob/master/Certificates/images/Natural Language Processing Specialization.pdf
 
-[Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/S6Q58G3H2TNX)
-
-![Natural Language Processing with Probabilistic Models](https://github.com/verneh/datasci/blob/master/Certificates/images/dl2.png)
 
 **Certificates from Datacamp**
 
