@@ -20,7 +20,7 @@
 
 [Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XU5TRSQLLUD97)
 
-![Natural Language Processing Specialization](https://github.com/verneh/datasci/blob/master/Certificates/images/Natural%20Language%20Processing%20Specialization.pdf)
+![Natural Language Processing Specialization](https://github.com/verneh/datasci/blob/master/Certificates/images/nat.png)
 
 
 **Certificates from Datacamp**
