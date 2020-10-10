@@ -20,7 +20,7 @@
 
 [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/certificate/WXDGL2APWLSA)
 
-![Google Cloud Platform Big Data and Machine Learning Fundamentals](https://github.com/verneh/datasci/blob/master/Certificates/images/google.png)
+![Google Cloud Platform Big Data and Machine Learning Fundamentals](https://github.com/verneh/datasci/blob/master/Certificates/images/google-plat.png)
 
 [Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/XU5TRSQLLUD97)
 
