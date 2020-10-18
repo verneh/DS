@@ -8,10 +8,10 @@ print("This works!")
 
 # access credentials goes here.
 
-access_token = '1314488361059459074-mHc1y8qvn2nH8w0moBDOT3H4tYLuGv'
-access_token_secret = 'pIdilkEr0x4dv1PZZsKjTExuRpJHfRTNiBnUqajK9qUMR'
-consumer_key = 'vjv2lgGRaDWpq2xHCMG8nrfKe'
-consumer_secret = 'KC3FgFCUSWSlFdeT8U8AiVIaeL2QtFdw9LX9rm9d3SHioVpiBX'
+access_token = ''
+access_token_secret = ''
+consumer_key = ''
+consumer_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
