@@ -17,7 +17,7 @@
 
 [MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits using Keras / TensorFlow
 
-[NLP](https://github.com/verneh/datasci/tree/master/NLP) is a work in progress.
+[NLP](https://github.com/verneh/datasci/tree/master/NLP) is a work in progress. It currently houses the ff: Coursera NLP scripts, a wikipedia scraping done on 2020 Premier League, and scraping 1,000 tweets from Danny Green's Game 5 NBA Finals performance.
 
 [Object Detection](https://github.com/verneh/datasci/tree/master/Object%20Detection) is a weekend project using Tensorflow Hub to scan one image. Used FasterRCNN - Inception Resnet V2.
 
