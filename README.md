@@ -13,7 +13,7 @@
 
 [FastAI](https://github.com/verneh/DataSci/tree/master/FastAI) are projects built off of FastAI for Deep Learning. Currently have an image classifier for an environment whether its "contaminated" or not.
 
-[Kaggle](https://github.com/verneh/datasci/tree/master/Kaggle) are some of the entries I made in Kaggle. The most recent on where I peaked at #32. It's about classifying pairs of sentences (consisting of a premise and a hypothesis) into three categories - entailment, contradiction, or neutral.
+[Kaggle](https://github.com/verneh/datasci/tree/master/Kaggle) is a folder dedicated to some of the entries I made in Kaggle. Current one on where I peaked at #32. It's about classifying pairs of sentences (consisting of a premise and a hypothesis) into three categories - entailment, contradiction, or neutral. It's a combination of transfer learning and BERT.
 
 [MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits using Keras / TensorFlow
 
