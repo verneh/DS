@@ -23,7 +23,7 @@
 
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender to see if songs from another playlist can be added to my own playlist.
 
-[Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Inside is a project on bike sharing utilization between two locations.
+[Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Inside is a project on bike sharing utilization between two locations. Also included is a bottling machine repair simulation through SymPy.
 
 [SQL](https://github.com/verneh/datasci/tree/master/SQL) is just SQL things.
 
