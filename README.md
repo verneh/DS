@@ -7,7 +7,7 @@
 
 [Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn%20Predictor%20App) is code for app that predicts whether a person is a customer in a bank or not.
 
-[Churn Modelling](https://github.com/verneh/datasci/tree/master/ChurnModelling) dataset is taken from Kaggle. Determined models to be used for Churn Prediction. Only the code for my first multipage app built through streamlit.io. 
+[Churn Modelling](https://github.com/verneh/datasci/tree/master/ChurnModelling) dataset is taken from Kaggle with a little customization from my part. Determined models to be used for Churn Prediction. Only the code for my first multipage app built through streamlit.io. 
 
 [Energy](https://github.com/verneh/datasci/tree/master/Energy) is taken from eDx Data Science for Architecture, Engineering and Construction. Time series, clustering, and prediction through regression for energy on a target building.
 
