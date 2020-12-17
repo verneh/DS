@@ -3,6 +3,8 @@
 
 [ANN](https://github.com/verneh/datasci/tree/master/ANN) is a simple Artificial Neural Network for FashionMNist.
 
+[AWS](https://github.com/verneh/datasci/tree/master/AWS) recent datajam for sentiment analysis using Sagemaker and Comprehend.
+
 [Certificates](https://github.com/verneh/datasci/tree/master/certificates) - some of the online courses I've taken.
 
 [Churn Predictor App](https://github.com/verneh/datasci/tree/master/Churn%20Predictor%20App) is code for app that predicts whether a person is a customer in a bank or not.
