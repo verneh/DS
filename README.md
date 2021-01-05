@@ -19,7 +19,7 @@
 
 [Kaggle](https://github.com/verneh/datasci/tree/master/Kaggle) is a folder dedicated to some of the entries I made in Kaggle. Current one on where I peaked at #32. It's about classifying pairs of sentences (consisting of a premise and a hypothesis) into three categories - entailment, contradiction, or neutral. It's a combination of transfer learning and BERT.
 
-[Machine Learning](https://github.com/verneh/datasci/tree/master/Machine%Learning) excerpts from Cognitive.AI
+[Machine Learning](https://github.com/verneh/datasci/tree/master/Machine%20Learning) excerpts from Cognitive.AI
 
 [MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits using Keras / TensorFlow
 
