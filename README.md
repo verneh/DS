@@ -19,6 +19,8 @@
 
 [Kaggle](https://github.com/verneh/datasci/tree/master/Kaggle) is a folder dedicated to some of the entries I made in Kaggle. Current one on where I peaked at #32. It's about classifying pairs of sentences (consisting of a premise and a hypothesis) into three categories - entailment, contradiction, or neutral. It's a combination of transfer learning and BERT.
 
+[Machine Learning](https://github.com/verneh/datasci/tree/master/Machine%Learning) excerpts from Cognitive.AI
+
 [MNIST](https://github.com/verneh/datasci/tree/master/MNIST) is part of the Coursera Course for Deep Learning where you get to classify images of digits using Keras / TensorFlow
 
 [NLP](https://github.com/verneh/datasci/tree/master/NLP) is a work in progress. It currently houses the ff: Coursera NLP scripts, a wikipedia scraping done on 2020 Premier League, and insights while scraping 1,000 tweets from Danny Green's Game 5 NBA Finals performance.
@@ -26,6 +28,8 @@
 [Object Detection](https://github.com/verneh/datasci/tree/master/Object%20Detection) is a weekend project using Tensorflow Hub to scan one image. Used FasterRCNN - Inception Resnet V2.
 
 [Recommender](https://github.com/verneh/DataSci/tree/master/Recommender) is my version of a Spotify Recommender to see if songs from another playlist can be added to my own playlist.
+
+[Scala](https://github.com/verneh/datasci/tree/master/Scala) excerpts from Cognitive.AI
 
 [Simulations](https://github.com/verneh/datasci/tree/master/Simulations) is where i try to do some simulation modeling through ModSimPy. Inside is a project on bike sharing utilization between two locations. Also included is a bottling machine repair simulation through SymPy.
 
