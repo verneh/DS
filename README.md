@@ -11,7 +11,7 @@
 
 [Churn Modelling](https://github.com/verneh/datasci/tree/master/ChurnModelling) dataset is taken from Kaggle with a little customization from my part. Determined models to be used for Churn Prediction. Only the code for my first multipage app built through streamlit.io. 
 
-[Energy](https://github.com/verneh/datasci/tree/master/Energy) is taken from eDx Data Science for Architecture, Engineering and Construction. Time series, clustering, and prediction through regression for energy on a target building.
+[Energy](https://github.com/verneh/datasci/tree/master/Energy) data taken from eDx's Data Science for Architecture, Engineering and Construction. Time series, clustering, and prediction through regression for energy on a target building.
 
 [Family Income and Expenditure (FIAE)](https://github.com/verneh/DataSci/tree/master/FIAE) is an exploratory data analysis on the average Filipino income with some examination of the relationships between variables.
 
